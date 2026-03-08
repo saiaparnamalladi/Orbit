@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orbit</string>
+    <string name="login_title">welcome back</string>
+    <string name="register_title">create your orbit</string>
+    <string name="email_hint">your email</string>
+    <string name="password_hint">your password</string>
+    <string name="name_hint">your name</string>
+    <string name="login_button">sign in</string>
+    <string name="register_button">create account</string>
+    <string name="pair_title">find your orbit</string>
+    <string name="pair_subtitle">share your code with your partner</string>
+    <string name="pair_button">connect</string>
+    <string name="chat_hint">say something…</string>
+    <string name="heart_description">send a heartbeat</string>
+    <string name="pisces">Pisces</string>
+    <string name="gemini">Gemini</string>
+</resources>
